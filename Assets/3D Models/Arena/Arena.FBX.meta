@@ -1,0 +1,192 @@
+fileFormatVersion: 2
+guid: c2cbac989e1b94541aa3722a4e9c6b33
+timeCreated: 1491505603
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Arena
+    100004: BackLeftTargetA
+    100006: BackLeftTargetB
+    100008: BackRightTargetA
+    100010: BackRightTargetB
+    100012: Ballplatform
+    100014: Ballplatform2
+    100016: Ballplatform3
+    100018: BallRef
+    100020: Circle001
+    100022: Circle002
+    100024: JumpPadA
+    100026: JumpPadB
+    100028: MiddleTargetA
+    100030: MiddleTargetB
+    100032: TargetPlatformBackLeftA
+    100034: TargetPlatformBackleftB
+    100036: TargetPlatformBackRightA
+    100038: TargetPlatformBackRightB
+    100040: TargetPlatformMiddleA
+    100042: TargetPlatformMiddleB
+    400000: //RootNode
+    400002: Arena
+    400004: BackLeftTargetA
+    400006: BackLeftTargetB
+    400008: BackRightTargetA
+    400010: BackRightTargetB
+    400012: Ballplatform
+    400014: Ballplatform2
+    400016: Ballplatform3
+    400018: BallRef
+    400020: Circle001
+    400022: Circle002
+    400024: JumpPadA
+    400026: JumpPadB
+    400028: MiddleTargetA
+    400030: MiddleTargetB
+    400032: TargetPlatformBackLeftA
+    400034: TargetPlatformBackleftB
+    400036: TargetPlatformBackRightA
+    400038: TargetPlatformBackRightB
+    400040: TargetPlatformMiddleA
+    400042: TargetPlatformMiddleB
+    2300000: Arena
+    2300002: BackLeftTargetA
+    2300004: BackLeftTargetB
+    2300006: BackRightTargetA
+    2300008: BackRightTargetB
+    2300010: Ballplatform
+    2300012: Ballplatform2
+    2300014: Ballplatform3
+    2300016: BallRef
+    2300018: JumpPadA
+    2300020: JumpPadB
+    2300022: MiddleTargetA
+    2300024: MiddleTargetB
+    2300026: TargetPlatformBackLeftA
+    2300028: TargetPlatformBackleftB
+    2300030: TargetPlatformBackRightA
+    2300032: TargetPlatformBackRightB
+    2300034: TargetPlatformMiddleA
+    2300036: TargetPlatformMiddleB
+    3300000: Arena
+    3300002: BackLeftTargetA
+    3300004: BackLeftTargetB
+    3300006: BackRightTargetA
+    3300008: BackRightTargetB
+    3300010: Ballplatform
+    3300012: Ballplatform2
+    3300014: Ballplatform3
+    3300016: BallRef
+    3300018: JumpPadA
+    3300020: JumpPadB
+    3300022: MiddleTargetA
+    3300024: MiddleTargetB
+    3300026: TargetPlatformBackLeftA
+    3300028: TargetPlatformBackleftB
+    3300030: TargetPlatformBackRightA
+    3300032: TargetPlatformBackRightB
+    3300034: TargetPlatformMiddleA
+    3300036: TargetPlatformMiddleB
+    4300000: Arena
+    4300002: TargetPlatformBackLeftA
+    4300004: TargetPlatformBackleftB
+    4300006: TargetPlatformBackRightA
+    4300008: TargetPlatformBackRightB
+    4300010: TargetPlatformMiddleB
+    4300012: TargetPlatformMiddleA
+    4300014: MiddleTargetA
+    4300016: BackRightTargetA
+    4300018: BackLeftTargetA
+    4300020: BackRightTargetB
+    4300022: BackLeftTargetB
+    4300024: MiddleTargetB
+    4300026: Ballplatform
+    4300028: Ballplatform2
+    4300030: Ballplatform3
+    4300032: BallRef
+    4300034: JumpPadB
+    4300036: JumpPadA
+    6400000: Arena
+    6400002: BackLeftTargetA
+    6400004: BackLeftTargetB
+    6400006: BackRightTargetA
+    6400008: BackRightTargetB
+    6400010: Ballplatform
+    6400012: Ballplatform2
+    6400014: Ballplatform3
+    6400016: BallRef
+    6400018: JumpPadA
+    6400020: JumpPadB
+    6400022: MiddleTargetA
+    6400024: MiddleTargetB
+    6400026: TargetPlatformBackLeftA
+    6400028: TargetPlatformBackleftB
+    6400030: TargetPlatformBackRightA
+    6400032: TargetPlatformBackRightB
+    6400034: TargetPlatformMiddleA
+    6400036: TargetPlatformMiddleB
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
